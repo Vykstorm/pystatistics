@@ -24,3 +24,6 @@ wheels/
 .installed.cfg
 *.egg
 MANIFEST
+
+# Ignore notebook checkpoints
+.ipynb_checkpoints/
