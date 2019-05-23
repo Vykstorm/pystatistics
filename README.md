@@ -5,5 +5,5 @@ This is done only with NumPy, pandas, sklearn and scipy libraries. matplotlib an
 The examples are presented as jupyter notebooks:
 - [Generation and visualization of statistic distributions](distributions.ipynb)
 - [Normality tests techniques (Shapiro-Wilk & Anderson-Darling)](normality.ipynb)
-- [t-tests (unpaired, one-sample and paired)](t-tests.ipynb)
+- [z-tests](z-tests.ipynb) and [t-tests](t-tests.ipynb)
 - [chi-square test (goodness of fit test)](chisquare-tests.ipynb)
