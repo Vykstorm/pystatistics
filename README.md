@@ -7,3 +7,4 @@ The examples are presented as jupyter notebooks:
 - [Normality tests techniques](normality.ipynb) (Shapiro-Wilk & Anderson-Darling)
 - [z-tests](z-tests.ipynb) and [t-tests](t-tests.ipynb) (for hypothesis testing)
 - [chi-square test](chisquare-tests.ipynb) (goodness of fit test)
+- [linear correlation test](correlations.ipynb) (calculate pearson correlation coefficients)
